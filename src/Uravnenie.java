@@ -18,7 +18,7 @@ public class Uravnenie {
             System.out.println("x=" + x);
         }
         if (d < 0) {
-            System.out.println("Уравнение не содержит действительных переменных");
+            System.out.println("Уравнение не содержит действительных корней");
         }
     }
 }
